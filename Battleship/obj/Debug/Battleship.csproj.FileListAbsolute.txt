@@ -1,0 +1,7 @@
+c:\users\wingg\source\repos\Battleship\Battleship\bin\Debug\Battleship.exe.config
+c:\users\wingg\source\repos\Battleship\Battleship\bin\Debug\Battleship.exe
+c:\users\wingg\source\repos\Battleship\Battleship\bin\Debug\Battleship.pdb
+c:\users\wingg\source\repos\Battleship\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+c:\users\wingg\source\repos\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+c:\users\wingg\source\repos\Battleship\Battleship\obj\Debug\Battleship.exe
+c:\users\wingg\source\repos\Battleship\Battleship\obj\Debug\Battleship.pdb
